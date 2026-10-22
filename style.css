@@ -1,0 +1,46 @@
+body{
+background-color: #add8e6;
+}
+
+
+header{
+display: flex;
+justify-content: center;
+
+}
+
+.fotboll{
+ width: 100px;
+ height: 100px;
+ margin-left: 20px;
+ margin-right: 20px;
+
+}
+nav{
+display: flex;
+justify-content: center;
+}
+a{
+    margin: 10px;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+    
+
+
+}
+.logga{
+    width: 250px;
+    height: auto;
+}
+article{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+display: flex;
+justify-content: center;
+}
+
